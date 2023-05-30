@@ -4,12 +4,11 @@
 
 #include "Date.h"
 
-class Accuratetime : public Date {
+class AccurateTime : public Date {
 	int _hour;
 	int _minute;
 	int _second;
-	//TODO add constructor, crud functions
-	//This class is not necessary yet, don't need to be develop now
+	//This class is not necessary yet, don't need to develop it now
 };
 
 #endif // !ACCURATETIME_H
